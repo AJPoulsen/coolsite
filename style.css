@@ -1,0 +1,21 @@
+
+header {
+  background-color:rgb(8, 8, 165);
+}
+footer{
+   background-color:rgb(8, 8, 165);
+   height: 60px;
+  } 
+div.empty{
+  background-color: cornflowerblue;
+   height: 20px;
+  }
+.two{
+  height: 250px;
+  width: auto;
+  margin-left: 9rem;
+text-align: center;
+}
+div.one {
+  text-align: center;
+}
